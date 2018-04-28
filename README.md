@@ -21,4 +21,4 @@ Para regenerar las slides se puede hacer:
 
 `jupyter nbconvert Slides.ipynb --to slides --SlidesExporter.font_awesome_url="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" --SlidesExporter.reveal_theme="beige" --SlidesExporter.reveal_url_prefix="00.static/reveal.js-3.5.0"`
 
-Para ver las slides online podéis [pinchar aquí](https://cdn.rawgit.com/kikocorreoso/charla_impaciencia_2018/1b0c757a/Slides.ipynb)
+Para ver las slides online podéis [pinchar aquí](https://cdn.rawgit.com/kikocorreoso/charla_impaciencia_2018/abada11d/Slides.slides.html)
